@@ -1,3 +1,6 @@
+Core Code from Udacity Android Development Course, Description Below
+Recode by fhlymz for Android Indonesia Kejar, April 7, 2016
+
 Sunshine
 ========
 
